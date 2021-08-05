@@ -25,3 +25,7 @@ This project uses FireBase Phone authentication
 <div>
   <video src="https://user-images.githubusercontent.com/64702890/128310091-7c38467b-ea71-4c17-b0f2-92d736d6f5a5.mp4" height=600 width=300>
   </div>
+  
+  <div>
+    <video src = "https://user-images.githubusercontent.com/64702890/128310128-9e64cddf-f6ef-4519-8b8f-c81e286a6aeb.mp4" height=600 width=300>
+    </div>
