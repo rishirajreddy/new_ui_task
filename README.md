@@ -6,3 +6,10 @@ A new Flutter project.
 
 This is HomeWorkout App UI
 This project uses FireBase Phone authentication
+
+
+## Screenshots
+
+<div>
+  <img src="https://user-images.githubusercontent.com/64702890/128307553-2688d5f4-17d5-4e0c-a2ef-a04035ef6523.jpg" height=500 width=300>
+  </div>
