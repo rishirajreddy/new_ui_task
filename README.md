@@ -19,3 +19,9 @@ This project uses FireBase Phone authentication
   <img src="https://user-images.githubusercontent.com/64702890/128307577-8135fa77-7029-489b-af93-3659be9822e0.jpg" height=600 width=300>
   <img src="https://user-images.githubusercontent.com/64702890/128307586-92bc1819-49e6-49c3-a01d-de96ea24db51.jpg" height=600 width=300>
   </div>
+
+## Shots
+
+<div>
+  <img src="https://user-images.githubusercontent.com/64702890/128310091-7c38467b-ea71-4c17-b0f2-92d736d6f5a5.mp4" height=600 width=300>
+  </div>
